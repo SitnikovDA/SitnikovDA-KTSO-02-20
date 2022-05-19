@@ -1,0 +1,10 @@
+Package: l2p2.o
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: SitnikovDA  <sitnilovdaya@gmail.com>
+Description: Pr2 Lecture 2
